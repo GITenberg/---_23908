@@ -1,0 +1,29 @@
+_repo: '---_23908'
+_version: 0.1.0
+alternative_title: Meng Zhong Yuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Li, Xiuxing, jin shi 1715
+    aliases:
+    - 李修行
+    - Li, Ziqian
+    gutenberg_agent_id: '26121'
+    url: http://www.gutenberg.org/2009/agents/26121
+description: ''
+gutenberg_issued: '2007-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23908'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Ming dynasty, 1368-1644'
+- !lcc 'PL'
+- !lcsh 'Love stories, Chinese'
+title: 夢中緣
+url: http://www.gutenberg.org/ebooks/23908
